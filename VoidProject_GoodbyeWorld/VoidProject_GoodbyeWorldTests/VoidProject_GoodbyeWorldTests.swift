@@ -1,14 +1,14 @@
 //
-//  Goodbye_WorldTests.swift
-//  Goodbye WorldTests
+//  VoidProject_GoodbyeWorldTests.swift
+//  VoidProject_GoodbyeWorldTests
 //
 //  Created by Guilherme Calland Rosa Borba on 13/09/22.
 //
 
 import XCTest
-@testable import Goodbye_World
+@testable import VoidProject_GoodbyeWorld
 
-class Goodbye_WorldTests: XCTestCase {
+class VoidProject_GoodbyeWorldTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

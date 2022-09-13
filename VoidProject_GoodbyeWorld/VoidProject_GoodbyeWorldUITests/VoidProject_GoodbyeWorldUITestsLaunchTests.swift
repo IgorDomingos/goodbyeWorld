@@ -1,13 +1,13 @@
 //
-//  Goodbye_WorldUITestsLaunchTests.swift
-//  Goodbye WorldUITests
+//  VoidProject_GoodbyeWorldUITestsLaunchTests.swift
+//  VoidProject_GoodbyeWorldUITests
 //
 //  Created by Guilherme Calland Rosa Borba on 13/09/22.
 //
 
 import XCTest
 
-class Goodbye_WorldUITestsLaunchTests: XCTestCase {
+class VoidProject_GoodbyeWorldUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

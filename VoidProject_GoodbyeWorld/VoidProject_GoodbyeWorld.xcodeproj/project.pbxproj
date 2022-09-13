@@ -7,61 +7,61 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		82FF322428D0BD36008CF607 /* Goodbye_WorldApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82FF322328D0BD36008CF607 /* Goodbye_WorldApp.swift */; };
-		82FF322628D0BD36008CF607 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82FF322528D0BD36008CF607 /* ContentView.swift */; };
-		82FF322828D0BD37008CF607 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82FF322728D0BD37008CF607 /* Assets.xcassets */; };
-		82FF322B28D0BD37008CF607 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82FF322A28D0BD37008CF607 /* Preview Assets.xcassets */; };
-		82FF323528D0BD37008CF607 /* Goodbye_WorldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82FF323428D0BD37008CF607 /* Goodbye_WorldTests.swift */; };
-		82FF323F28D0BD37008CF607 /* Goodbye_WorldUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82FF323E28D0BD37008CF607 /* Goodbye_WorldUITests.swift */; };
-		82FF324128D0BD37008CF607 /* Goodbye_WorldUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82FF324028D0BD37008CF607 /* Goodbye_WorldUITestsLaunchTests.swift */; };
+		82FF325A28D0CFA7008CF607 /* VoidProject_GoodbyeWorldApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82FF325928D0CFA7008CF607 /* VoidProject_GoodbyeWorldApp.swift */; };
+		82FF325C28D0CFA7008CF607 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82FF325B28D0CFA7008CF607 /* ContentView.swift */; };
+		82FF325E28D0CFAB008CF607 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82FF325D28D0CFAB008CF607 /* Assets.xcassets */; };
+		82FF326128D0CFAB008CF607 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82FF326028D0CFAB008CF607 /* Preview Assets.xcassets */; };
+		82FF326B28D0CFAB008CF607 /* VoidProject_GoodbyeWorldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82FF326A28D0CFAB008CF607 /* VoidProject_GoodbyeWorldTests.swift */; };
+		82FF327528D0CFAC008CF607 /* VoidProject_GoodbyeWorldUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82FF327428D0CFAC008CF607 /* VoidProject_GoodbyeWorldUITests.swift */; };
+		82FF327728D0CFAC008CF607 /* VoidProject_GoodbyeWorldUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82FF327628D0CFAC008CF607 /* VoidProject_GoodbyeWorldUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		82FF323128D0BD37008CF607 /* PBXContainerItemProxy */ = {
+		82FF326728D0CFAB008CF607 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 82FF321828D0BD36008CF607 /* Project object */;
+			containerPortal = 82FF324E28D0CFA7008CF607 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 82FF321F28D0BD36008CF607;
-			remoteInfo = "Goodbye World";
+			remoteGlobalIDString = 82FF325528D0CFA7008CF607;
+			remoteInfo = VoidProject_GoodbyeWorld;
 		};
-		82FF323B28D0BD37008CF607 /* PBXContainerItemProxy */ = {
+		82FF327128D0CFAB008CF607 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 82FF321828D0BD36008CF607 /* Project object */;
+			containerPortal = 82FF324E28D0CFA7008CF607 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 82FF321F28D0BD36008CF607;
-			remoteInfo = "Goodbye World";
+			remoteGlobalIDString = 82FF325528D0CFA7008CF607;
+			remoteInfo = VoidProject_GoodbyeWorld;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		82FF322028D0BD36008CF607 /* Goodbye World.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Goodbye World.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		82FF322328D0BD36008CF607 /* Goodbye_WorldApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Goodbye_WorldApp.swift; sourceTree = "<group>"; };
-		82FF322528D0BD36008CF607 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		82FF322728D0BD37008CF607 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		82FF322A28D0BD37008CF607 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		82FF323028D0BD37008CF607 /* Goodbye WorldTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Goodbye WorldTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		82FF323428D0BD37008CF607 /* Goodbye_WorldTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Goodbye_WorldTests.swift; sourceTree = "<group>"; };
-		82FF323A28D0BD37008CF607 /* Goodbye WorldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Goodbye WorldUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		82FF323E28D0BD37008CF607 /* Goodbye_WorldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Goodbye_WorldUITests.swift; sourceTree = "<group>"; };
-		82FF324028D0BD37008CF607 /* Goodbye_WorldUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Goodbye_WorldUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		82FF325628D0CFA7008CF607 /* VoidProject_GoodbyeWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VoidProject_GoodbyeWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		82FF325928D0CFA7008CF607 /* VoidProject_GoodbyeWorldApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VoidProject_GoodbyeWorldApp.swift; sourceTree = "<group>"; };
+		82FF325B28D0CFA7008CF607 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		82FF325D28D0CFAB008CF607 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		82FF326028D0CFAB008CF607 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		82FF326628D0CFAB008CF607 /* VoidProject_GoodbyeWorldTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VoidProject_GoodbyeWorldTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		82FF326A28D0CFAB008CF607 /* VoidProject_GoodbyeWorldTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VoidProject_GoodbyeWorldTests.swift; sourceTree = "<group>"; };
+		82FF327028D0CFAB008CF607 /* VoidProject_GoodbyeWorldUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VoidProject_GoodbyeWorldUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		82FF327428D0CFAC008CF607 /* VoidProject_GoodbyeWorldUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VoidProject_GoodbyeWorldUITests.swift; sourceTree = "<group>"; };
+		82FF327628D0CFAC008CF607 /* VoidProject_GoodbyeWorldUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VoidProject_GoodbyeWorldUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		82FF321D28D0BD36008CF607 /* Frameworks */ = {
+		82FF325328D0CFA7008CF607 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		82FF322D28D0BD37008CF607 /* Frameworks */ = {
+		82FF326328D0CFAB008CF607 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		82FF323728D0BD37008CF607 /* Frameworks */ = {
+		82FF326D28D0CFAB008CF607 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -71,142 +71,142 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		82FF321728D0BD36008CF607 = {
+		82FF324D28D0CFA7008CF607 = {
 			isa = PBXGroup;
 			children = (
-				82FF322228D0BD36008CF607 /* Goodbye World */,
-				82FF323328D0BD37008CF607 /* Goodbye WorldTests */,
-				82FF323D28D0BD37008CF607 /* Goodbye WorldUITests */,
-				82FF322128D0BD36008CF607 /* Products */,
+				82FF325828D0CFA7008CF607 /* VoidProject_GoodbyeWorld */,
+				82FF326928D0CFAB008CF607 /* VoidProject_GoodbyeWorldTests */,
+				82FF327328D0CFAC008CF607 /* VoidProject_GoodbyeWorldUITests */,
+				82FF325728D0CFA7008CF607 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		82FF322128D0BD36008CF607 /* Products */ = {
+		82FF325728D0CFA7008CF607 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				82FF322028D0BD36008CF607 /* Goodbye World.app */,
-				82FF323028D0BD37008CF607 /* Goodbye WorldTests.xctest */,
-				82FF323A28D0BD37008CF607 /* Goodbye WorldUITests.xctest */,
+				82FF325628D0CFA7008CF607 /* VoidProject_GoodbyeWorld.app */,
+				82FF326628D0CFAB008CF607 /* VoidProject_GoodbyeWorldTests.xctest */,
+				82FF327028D0CFAB008CF607 /* VoidProject_GoodbyeWorldUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		82FF322228D0BD36008CF607 /* Goodbye World */ = {
+		82FF325828D0CFA7008CF607 /* VoidProject_GoodbyeWorld */ = {
 			isa = PBXGroup;
 			children = (
-				82FF322328D0BD36008CF607 /* Goodbye_WorldApp.swift */,
-				82FF322528D0BD36008CF607 /* ContentView.swift */,
-				82FF322728D0BD37008CF607 /* Assets.xcassets */,
-				82FF322928D0BD37008CF607 /* Preview Content */,
+				82FF325928D0CFA7008CF607 /* VoidProject_GoodbyeWorldApp.swift */,
+				82FF325B28D0CFA7008CF607 /* ContentView.swift */,
+				82FF325D28D0CFAB008CF607 /* Assets.xcassets */,
+				82FF325F28D0CFAB008CF607 /* Preview Content */,
 			);
-			path = "Goodbye World";
+			path = VoidProject_GoodbyeWorld;
 			sourceTree = "<group>";
 		};
-		82FF322928D0BD37008CF607 /* Preview Content */ = {
+		82FF325F28D0CFAB008CF607 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				82FF322A28D0BD37008CF607 /* Preview Assets.xcassets */,
+				82FF326028D0CFAB008CF607 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		82FF323328D0BD37008CF607 /* Goodbye WorldTests */ = {
+		82FF326928D0CFAB008CF607 /* VoidProject_GoodbyeWorldTests */ = {
 			isa = PBXGroup;
 			children = (
-				82FF323428D0BD37008CF607 /* Goodbye_WorldTests.swift */,
+				82FF326A28D0CFAB008CF607 /* VoidProject_GoodbyeWorldTests.swift */,
 			);
-			path = "Goodbye WorldTests";
+			path = VoidProject_GoodbyeWorldTests;
 			sourceTree = "<group>";
 		};
-		82FF323D28D0BD37008CF607 /* Goodbye WorldUITests */ = {
+		82FF327328D0CFAC008CF607 /* VoidProject_GoodbyeWorldUITests */ = {
 			isa = PBXGroup;
 			children = (
-				82FF323E28D0BD37008CF607 /* Goodbye_WorldUITests.swift */,
-				82FF324028D0BD37008CF607 /* Goodbye_WorldUITestsLaunchTests.swift */,
+				82FF327428D0CFAC008CF607 /* VoidProject_GoodbyeWorldUITests.swift */,
+				82FF327628D0CFAC008CF607 /* VoidProject_GoodbyeWorldUITestsLaunchTests.swift */,
 			);
-			path = "Goodbye WorldUITests";
+			path = VoidProject_GoodbyeWorldUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		82FF321F28D0BD36008CF607 /* Goodbye World */ = {
+		82FF325528D0CFA7008CF607 /* VoidProject_GoodbyeWorld */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 82FF324428D0BD37008CF607 /* Build configuration list for PBXNativeTarget "Goodbye World" */;
+			buildConfigurationList = 82FF327A28D0CFAC008CF607 /* Build configuration list for PBXNativeTarget "VoidProject_GoodbyeWorld" */;
 			buildPhases = (
-				82FF321C28D0BD36008CF607 /* Sources */,
-				82FF321D28D0BD36008CF607 /* Frameworks */,
-				82FF321E28D0BD36008CF607 /* Resources */,
+				82FF325228D0CFA7008CF607 /* Sources */,
+				82FF325328D0CFA7008CF607 /* Frameworks */,
+				82FF325428D0CFA7008CF607 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Goodbye World";
-			productName = "Goodbye World";
-			productReference = 82FF322028D0BD36008CF607 /* Goodbye World.app */;
+			name = VoidProject_GoodbyeWorld;
+			productName = VoidProject_GoodbyeWorld;
+			productReference = 82FF325628D0CFA7008CF607 /* VoidProject_GoodbyeWorld.app */;
 			productType = "com.apple.product-type.application";
 		};
-		82FF322F28D0BD37008CF607 /* Goodbye WorldTests */ = {
+		82FF326528D0CFAB008CF607 /* VoidProject_GoodbyeWorldTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 82FF324728D0BD37008CF607 /* Build configuration list for PBXNativeTarget "Goodbye WorldTests" */;
+			buildConfigurationList = 82FF327D28D0CFAC008CF607 /* Build configuration list for PBXNativeTarget "VoidProject_GoodbyeWorldTests" */;
 			buildPhases = (
-				82FF322C28D0BD37008CF607 /* Sources */,
-				82FF322D28D0BD37008CF607 /* Frameworks */,
-				82FF322E28D0BD37008CF607 /* Resources */,
+				82FF326228D0CFAB008CF607 /* Sources */,
+				82FF326328D0CFAB008CF607 /* Frameworks */,
+				82FF326428D0CFAB008CF607 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				82FF323228D0BD37008CF607 /* PBXTargetDependency */,
+				82FF326828D0CFAB008CF607 /* PBXTargetDependency */,
 			);
-			name = "Goodbye WorldTests";
-			productName = "Goodbye WorldTests";
-			productReference = 82FF323028D0BD37008CF607 /* Goodbye WorldTests.xctest */;
+			name = VoidProject_GoodbyeWorldTests;
+			productName = VoidProject_GoodbyeWorldTests;
+			productReference = 82FF326628D0CFAB008CF607 /* VoidProject_GoodbyeWorldTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		82FF323928D0BD37008CF607 /* Goodbye WorldUITests */ = {
+		82FF326F28D0CFAB008CF607 /* VoidProject_GoodbyeWorldUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 82FF324A28D0BD37008CF607 /* Build configuration list for PBXNativeTarget "Goodbye WorldUITests" */;
+			buildConfigurationList = 82FF328028D0CFAC008CF607 /* Build configuration list for PBXNativeTarget "VoidProject_GoodbyeWorldUITests" */;
 			buildPhases = (
-				82FF323628D0BD37008CF607 /* Sources */,
-				82FF323728D0BD37008CF607 /* Frameworks */,
-				82FF323828D0BD37008CF607 /* Resources */,
+				82FF326C28D0CFAB008CF607 /* Sources */,
+				82FF326D28D0CFAB008CF607 /* Frameworks */,
+				82FF326E28D0CFAB008CF607 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				82FF323C28D0BD37008CF607 /* PBXTargetDependency */,
+				82FF327228D0CFAB008CF607 /* PBXTargetDependency */,
 			);
-			name = "Goodbye WorldUITests";
-			productName = "Goodbye WorldUITests";
-			productReference = 82FF323A28D0BD37008CF607 /* Goodbye WorldUITests.xctest */;
+			name = VoidProject_GoodbyeWorldUITests;
+			productName = VoidProject_GoodbyeWorldUITests;
+			productReference = 82FF327028D0CFAB008CF607 /* VoidProject_GoodbyeWorldUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		82FF321828D0BD36008CF607 /* Project object */ = {
+		82FF324E28D0CFA7008CF607 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1300;
 				LastUpgradeCheck = 1300;
 				TargetAttributes = {
-					82FF321F28D0BD36008CF607 = {
+					82FF325528D0CFA7008CF607 = {
 						CreatedOnToolsVersion = 13.0;
 					};
-					82FF322F28D0BD37008CF607 = {
+					82FF326528D0CFAB008CF607 = {
 						CreatedOnToolsVersion = 13.0;
-						TestTargetID = 82FF321F28D0BD36008CF607;
+						TestTargetID = 82FF325528D0CFA7008CF607;
 					};
-					82FF323928D0BD37008CF607 = {
+					82FF326F28D0CFAB008CF607 = {
 						CreatedOnToolsVersion = 13.0;
-						TestTargetID = 82FF321F28D0BD36008CF607;
+						TestTargetID = 82FF325528D0CFA7008CF607;
 					};
 				};
 			};
-			buildConfigurationList = 82FF321B28D0BD36008CF607 /* Build configuration list for PBXProject "Goodbye World" */;
+			buildConfigurationList = 82FF325128D0CFA7008CF607 /* Build configuration list for PBXProject "VoidProject_GoodbyeWorld" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -214,36 +214,36 @@
 				en,
 				Base,
 			);
-			mainGroup = 82FF321728D0BD36008CF607;
-			productRefGroup = 82FF322128D0BD36008CF607 /* Products */;
+			mainGroup = 82FF324D28D0CFA7008CF607;
+			productRefGroup = 82FF325728D0CFA7008CF607 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				82FF321F28D0BD36008CF607 /* Goodbye World */,
-				82FF322F28D0BD37008CF607 /* Goodbye WorldTests */,
-				82FF323928D0BD37008CF607 /* Goodbye WorldUITests */,
+				82FF325528D0CFA7008CF607 /* VoidProject_GoodbyeWorld */,
+				82FF326528D0CFAB008CF607 /* VoidProject_GoodbyeWorldTests */,
+				82FF326F28D0CFAB008CF607 /* VoidProject_GoodbyeWorldUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		82FF321E28D0BD36008CF607 /* Resources */ = {
+		82FF325428D0CFA7008CF607 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				82FF322B28D0BD37008CF607 /* Preview Assets.xcassets in Resources */,
-				82FF322828D0BD37008CF607 /* Assets.xcassets in Resources */,
+				82FF326128D0CFAB008CF607 /* Preview Assets.xcassets in Resources */,
+				82FF325E28D0CFAB008CF607 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		82FF322E28D0BD37008CF607 /* Resources */ = {
+		82FF326428D0CFAB008CF607 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		82FF323828D0BD37008CF607 /* Resources */ = {
+		82FF326E28D0CFAB008CF607 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -253,49 +253,49 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		82FF321C28D0BD36008CF607 /* Sources */ = {
+		82FF325228D0CFA7008CF607 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				82FF322628D0BD36008CF607 /* ContentView.swift in Sources */,
-				82FF322428D0BD36008CF607 /* Goodbye_WorldApp.swift in Sources */,
+				82FF325C28D0CFA7008CF607 /* ContentView.swift in Sources */,
+				82FF325A28D0CFA7008CF607 /* VoidProject_GoodbyeWorldApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		82FF322C28D0BD37008CF607 /* Sources */ = {
+		82FF326228D0CFAB008CF607 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				82FF323528D0BD37008CF607 /* Goodbye_WorldTests.swift in Sources */,
+				82FF326B28D0CFAB008CF607 /* VoidProject_GoodbyeWorldTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		82FF323628D0BD37008CF607 /* Sources */ = {
+		82FF326C28D0CFAB008CF607 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				82FF323F28D0BD37008CF607 /* Goodbye_WorldUITests.swift in Sources */,
-				82FF324128D0BD37008CF607 /* Goodbye_WorldUITestsLaunchTests.swift in Sources */,
+				82FF327528D0CFAC008CF607 /* VoidProject_GoodbyeWorldUITests.swift in Sources */,
+				82FF327728D0CFAC008CF607 /* VoidProject_GoodbyeWorldUITestsLaunchTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		82FF323228D0BD37008CF607 /* PBXTargetDependency */ = {
+		82FF326828D0CFAB008CF607 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 82FF321F28D0BD36008CF607 /* Goodbye World */;
-			targetProxy = 82FF323128D0BD37008CF607 /* PBXContainerItemProxy */;
+			target = 82FF325528D0CFA7008CF607 /* VoidProject_GoodbyeWorld */;
+			targetProxy = 82FF326728D0CFAB008CF607 /* PBXContainerItemProxy */;
 		};
-		82FF323C28D0BD37008CF607 /* PBXTargetDependency */ = {
+		82FF327228D0CFAB008CF607 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 82FF321F28D0BD36008CF607 /* Goodbye World */;
-			targetProxy = 82FF323B28D0BD37008CF607 /* PBXContainerItemProxy */;
+			target = 82FF325528D0CFA7008CF607 /* VoidProject_GoodbyeWorld */;
+			targetProxy = 82FF327128D0CFAB008CF607 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		82FF324228D0BD37008CF607 /* Debug */ = {
+		82FF327828D0CFAC008CF607 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -356,7 +356,7 @@
 			};
 			name = Debug;
 		};
-		82FF324328D0BD37008CF607 /* Release */ = {
+		82FF327928D0CFAC008CF607 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -411,14 +411,14 @@
 			};
 			name = Release;
 		};
-		82FF324528D0BD37008CF607 /* Debug */ = {
+		82FF327B28D0CFAC008CF607 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Goodbye World/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"VoidProject_GoodbyeWorld/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -432,7 +432,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.voidprojects.goodbye-world.Goodbye-World";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.voidprojects.goodbye-world.VoidProject-GoodbyeWorld";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -440,14 +440,14 @@
 			};
 			name = Debug;
 		};
-		82FF324628D0BD37008CF607 /* Release */ = {
+		82FF327C28D0CFAC008CF607 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"Goodbye World/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"VoidProject_GoodbyeWorld/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -461,7 +461,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.voidprojects.goodbye-world.Goodbye-World";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.voidprojects.goodbye-world.VoidProject-GoodbyeWorld";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -469,7 +469,7 @@
 			};
 			name = Release;
 		};
-		82FF324828D0BD37008CF607 /* Debug */ = {
+		82FF327E28D0CFAC008CF607 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -484,16 +484,16 @@
 					"@loader_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.voidprojects.goodbye-world.Goodbye-WorldTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.voidprojects.goodbye-world.VoidProject-GoodbyeWorldTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Goodbye World.app/Goodbye World";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/VoidProject_GoodbyeWorld.app/VoidProject_GoodbyeWorld";
 			};
 			name = Debug;
 		};
-		82FF324928D0BD37008CF607 /* Release */ = {
+		82FF327F28D0CFAC008CF607 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -508,16 +508,16 @@
 					"@loader_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.voidprojects.goodbye-world.Goodbye-WorldTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.voidprojects.goodbye-world.VoidProject-GoodbyeWorldTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Goodbye World.app/Goodbye World";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/VoidProject_GoodbyeWorld.app/VoidProject_GoodbyeWorld";
 			};
 			name = Release;
 		};
-		82FF324B28D0BD37008CF607 /* Debug */ = {
+		82FF328128D0CFAC008CF607 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -530,16 +530,16 @@
 					"@loader_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.voidprojects.goodbye-world.Goodbye-WorldUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.voidprojects.goodbye-world.VoidProject-GoodbyeWorldUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Goodbye World";
+				TEST_TARGET_NAME = VoidProject_GoodbyeWorld;
 			};
 			name = Debug;
 		};
-		82FF324C28D0BD37008CF607 /* Release */ = {
+		82FF328228D0CFAC008CF607 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -552,55 +552,55 @@
 					"@loader_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.voidprojects.goodbye-world.Goodbye-WorldUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.voidprojects.goodbye-world.VoidProject-GoodbyeWorldUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Goodbye World";
+				TEST_TARGET_NAME = VoidProject_GoodbyeWorld;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		82FF321B28D0BD36008CF607 /* Build configuration list for PBXProject "Goodbye World" */ = {
+		82FF325128D0CFA7008CF607 /* Build configuration list for PBXProject "VoidProject_GoodbyeWorld" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				82FF324228D0BD37008CF607 /* Debug */,
-				82FF324328D0BD37008CF607 /* Release */,
+				82FF327828D0CFAC008CF607 /* Debug */,
+				82FF327928D0CFAC008CF607 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		82FF324428D0BD37008CF607 /* Build configuration list for PBXNativeTarget "Goodbye World" */ = {
+		82FF327A28D0CFAC008CF607 /* Build configuration list for PBXNativeTarget "VoidProject_GoodbyeWorld" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				82FF324528D0BD37008CF607 /* Debug */,
-				82FF324628D0BD37008CF607 /* Release */,
+				82FF327B28D0CFAC008CF607 /* Debug */,
+				82FF327C28D0CFAC008CF607 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		82FF324728D0BD37008CF607 /* Build configuration list for PBXNativeTarget "Goodbye WorldTests" */ = {
+		82FF327D28D0CFAC008CF607 /* Build configuration list for PBXNativeTarget "VoidProject_GoodbyeWorldTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				82FF324828D0BD37008CF607 /* Debug */,
-				82FF324928D0BD37008CF607 /* Release */,
+				82FF327E28D0CFAC008CF607 /* Debug */,
+				82FF327F28D0CFAC008CF607 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		82FF324A28D0BD37008CF607 /* Build configuration list for PBXNativeTarget "Goodbye WorldUITests" */ = {
+		82FF328028D0CFAC008CF607 /* Build configuration list for PBXNativeTarget "VoidProject_GoodbyeWorldUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				82FF324B28D0BD37008CF607 /* Debug */,
-				82FF324C28D0BD37008CF607 /* Release */,
+				82FF328128D0CFAC008CF607 /* Debug */,
+				82FF328228D0CFAC008CF607 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 82FF321828D0BD36008CF607 /* Project object */;
+	rootObject = 82FF324E28D0CFA7008CF607 /* Project object */;
 }
