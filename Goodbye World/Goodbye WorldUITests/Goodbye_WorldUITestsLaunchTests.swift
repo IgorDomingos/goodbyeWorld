@@ -1,13 +1,13 @@
 //
-//  Tests_iOSLaunchTests.swift
-//  Tests iOS
+//  Goodbye_WorldUITestsLaunchTests.swift
+//  Goodbye WorldUITests
 //
-//  Created by Igor Rocha on 01/09/22.
+//  Created by Guilherme Calland Rosa Borba on 13/09/22.
 //
 
 import XCTest
 
-class Tests_iOSLaunchTests: XCTestCase {
+class Goodbye_WorldUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
